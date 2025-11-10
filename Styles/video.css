@@ -95,7 +95,7 @@
 
         @media (max-width: 800px) {
             .video-grid {
-                grid-template-columns: 1fr 1fr;
+                grid-template-columns: 1fr;
             }
         }
 
